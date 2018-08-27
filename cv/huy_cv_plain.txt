@@ -5,18 +5,18 @@ Department of Computer Science, University of Pittsburgh
 
 Email: hvn3@pitt.edu
 Mobile: (412) 799-3636
-Hompage: http://people.cs.pitt.edu/~huynv
+Hompage: https://nvhuy.github.io
 LinkedIn: www.linkedin.com/in/huynv
 
 (+) ADDRESSES
 
-Home: 2128 Murray Ave. Apt. 3
-Pittsburgh, PA 15217
+Home: 907 Alameda De Las Pulgas
+Belmont, CA 94002
 Mobile: (412) 799-3636
 
-Office: 5420 Sennott Square, 210 S. Bouquet St.
-Pittsburgh, PA, 15260
-Tel: (412) 624-8462
+Office: LingoChamp US, Inc.
+1900 S Norfolk St., Suite 347
+San Mateo, CA 94430
 
 (+) RESEARCH INTERESTS
 
@@ -28,7 +28,7 @@ Tel: (412) 624-8462
 
 (+) EDUCATION
 
-* Ph.D. in Computer Science, Fall 2010 -- Spring 2017
+* Ph.D. in Computer Science, August 2010 -- December 2017
 	- Dissertation: Context-aware Argument Mining and Its Application in Education
 	- University of Pittsburgh, Pittsburgh, PA
 	- GPA 3.98/4
@@ -42,42 +42,43 @@ Tel: (412) 624-8462
 
 * Research Scientist, February 2018 -- onward
 	- LingoChamp US Inc., San Mateo, CA
-	- Manager: Yang Liu, Head of AI Lab, Associate Professor at UTDallas.
+	- Manager: Dr. Yang Liu, Head of Silicone Valley AI Lab
 	- Work in an Artificial Intelligence Lab for Educational Applications.
 	- Research and develop models using Natural Language Processing and Machine Learning to automatically assess English-as-second-language learner responses.
 
 * Natural Language Processing Engineer, March 2017 -- February 2018
 	- Lenovo Inc., Morrisville, NC
-	- Manager: Vikram Sharma, Sr. Software Development Manager.
+	- Manager: Vikram Sharma, Director of Software Engineering
 	- Work in Lenovo Contextual Engine (LCE) Project.
 	- Research and develop recommendation models based on mining pattern in users' activities to increase user experience with Lenovo products.
 
 * Graduate Student Researcher, August 2011 -- February 2017
 	- University of Pittsburgh, Pittsburgh, PA
-	- Academic advior: Diane J. Litman, Professor, Computer Science Department.
+	- Academic advior: Dr. Diane J. Litman, Professor, Computer Science Department.
 	- Work in SWoRD project (sites.google.com/site/swordlrdc/home).
 	- Research peer review helpfulness (i.e. localization and solution), and argument mining in student writings.
 
 * Research Intern R&D, June 08 -- August 28, 2015
 	- Thomson Reuters Corp., Eagan, MN
-	- Supervisor: Frank Schneider, Research Director, R&D.
+	- Supervisor: Dr. Frank Schneider, Research Director, R&D.
 	- Worked in a natural language generation project that aimed to supporting natural language queries to relational databases.
 	- Developed a data-driven approach that generates textual captions for each relation in database to enable natural language queries. My approach mined synonyms and paraphrases of keywords and phrases in relation's description, and mined sentential templates that connect key terms/phrases in natural language.
 
 * Research Intern R&D, June 03 -- August 23, 2013
 	- Motorola Solutions Inc., Chicago, IL
-	- Supervisor: Yan-Ming Cheng, Senior Research Manager, CTO.
+	- Supervisor: Dr. Yan-Ming Cheng, Senior Research Manager, CTO.
 	- Worked in a spoken dialog project that aimed to support natural language queries to relational databases.
 	- Developed a rule-based approach to convert a relational database schema to a relational ontology in RDF specification, which focused on the semantics between RDB entities and relations.
 
 * Visiting Scholar, February -- June 2009
 	- University of Houston, TX
-	- Supervisor: Marc Garbey, Professor, Computer Science Department.
+	- Supervisor: Dr. Marc Garbey, Professor, Computer Science Department.
 	- Worked in Virtual Prairie project (vcsc.cs.uh.edu/virtual-prairie/).
 	- Researched and implemented a parallel genetic algorithm framework for a computational ecology problem.
 
 * Lecturer September, 2007 -- 2010
 	- Hanoi University of Science and Technology, Vietnam
+	- Manager: Dr. Nghia Duc Nguyen, Professor, Head of Computer Science Department
 	- Worked in Computer Science Department.
 	- Taught courses including Discrete mathematics, Parallel computing, and Scientific computing.
 
@@ -106,6 +107,9 @@ Tel: (412) 624-8462
 * Huy Nguyen, Wenting Xiong, and Diane Litman. Iterative Design and Classroom Evaluation of Automated Instant Feedback for Improving Peer Feedback Localization. International Journal of Artificial Intelligence in Education (2017), Special Issue: Formative Feedback in Interactive Learning Environments. pp 1--41.
 
 (+) CONFERENCE PUBLICATIONS
+
+* Huy Nguyen, Lei Chen, Ramon Prieto, Chuan Wang, and Yang Liu. Liulishuo's System for the Spoken CALL Shared Task 2018. The 19th Annual  Conference of the International Speech Communication Association, September 2018, India. First-ranked team.
+
 
 * Huy V. Nguyen and Diane Litman. Argument Mining for Improving Persuasive Essay Score Prediction. Proceedings of 32nd AAAI Conference on Artificial Intelligence (AAAI-18), February 2018, New Orleans, Louisiana, USA.
 
@@ -218,4 +222,4 @@ Tel: (412) 624-8462
 * Nonparametric Bayesian Models and Dirichlet Process
 	- Advanced Machine Learning Class
 
-/* Updated July 2016 */
+/* Updated August 2018 */
