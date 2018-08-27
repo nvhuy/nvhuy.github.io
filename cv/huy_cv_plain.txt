@@ -1,0 +1,221 @@
+--------CURRICULUM-VITAE--------
+
+HUY VIET NGUYEN
+Department of Computer Science, University of Pittsburgh
+
+Email: hvn3@pitt.edu
+Mobile: (412) 799-3636
+Hompage: http://people.cs.pitt.edu/~huynv
+LinkedIn: www.linkedin.com/in/huynv
+
+(+) ADDRESSES
+
+Home: 2128 Murray Ave. Apt. 3
+Pittsburgh, PA 15217
+Mobile: (412) 799-3636
+
+Office: 5420 Sennott Square, 210 S. Bouquet St.
+Pittsburgh, PA, 15260
+Tel: (412) 624-8462
+
+(+) RESEARCH INTERESTS
+
+* Major areas:
+	- Natural language processing, Machine learning, Data mining
+
+* Data domains include but are not limited to:
+	- Argumentative writing, Argument diagram, Peer review, Online review
+
+(+) EDUCATION
+
+* Ph.D. in Computer Science, Fall 2010 -- Spring 2017
+	- Dissertation: Context-aware Argument Mining and Its Application in Education
+	- University of Pittsburgh, Pittsburgh, PA
+	- GPA 3.98/4
+
+* B.S. in Information Technology, September 2002 -- May 2007
+	- Thesis: A Parallel Genetic Algorithm for Steiner Tree Problem
+	- Hanoi University of Science and Technology
+	- GPA 8.64/10, Excellent Degree of Engineer
+
+(+) EXPERIENCE
+
+* Research Scientist, February 2018 -- onward
+	- LingoChamp US Inc., San Mateo, CA
+	- Manager: Yang Liu, Head of AI Lab, Associate Professor at UTDallas.
+	- Work in an Artificial Intelligence Lab for Educational Applications.
+	- Research and develop models using Natural Language Processing and Machine Learning to automatically assess English-as-second-language learner responses.
+
+* Natural Language Processing Engineer, March 2017 -- February 2018
+	- Lenovo Inc., Morrisville, NC
+	- Manager: Vikram Sharma, Sr. Software Development Manager.
+	- Work in Lenovo Contextual Engine (LCE) Project.
+	- Research and develop recommendation models based on mining pattern in users' activities to increase user experience with Lenovo products.
+
+* Graduate Student Researcher, August 2011 -- February 2017
+	- University of Pittsburgh, Pittsburgh, PA
+	- Academic advior: Diane J. Litman, Professor, Computer Science Department.
+	- Work in SWoRD project (sites.google.com/site/swordlrdc/home).
+	- Research peer review helpfulness (i.e. localization and solution), and argument mining in student writings.
+
+* Research Intern R&D, June 08 -- August 28, 2015
+	- Thomson Reuters Corp., Eagan, MN
+	- Supervisor: Frank Schneider, Research Director, R&D.
+	- Worked in a natural language generation project that aimed to supporting natural language queries to relational databases.
+	- Developed a data-driven approach that generates textual captions for each relation in database to enable natural language queries. My approach mined synonyms and paraphrases of keywords and phrases in relation's description, and mined sentential templates that connect key terms/phrases in natural language.
+
+* Research Intern R&D, June 03 -- August 23, 2013
+	- Motorola Solutions Inc., Chicago, IL
+	- Supervisor: Yan-Ming Cheng, Senior Research Manager, CTO.
+	- Worked in a spoken dialog project that aimed to support natural language queries to relational databases.
+	- Developed a rule-based approach to convert a relational database schema to a relational ontology in RDF specification, which focused on the semantics between RDB entities and relations.
+
+* Visiting Scholar, February -- June 2009
+	- University of Houston, TX
+	- Supervisor: Marc Garbey, Professor, Computer Science Department.
+	- Worked in Virtual Prairie project (vcsc.cs.uh.edu/virtual-prairie/).
+	- Researched and implemented a parallel genetic algorithm framework for a computational ecology problem.
+
+* Lecturer September, 2007 -- 2010
+	- Hanoi University of Science and Technology, Vietnam
+	- Worked in Computer Science Department.
+	- Taught courses including Discrete mathematics, Parallel computing, and Scientific computing.
+
+(+) COMPUTER SKILLS
+
+* Languages: Java, Python, Matlab, C/C++
+
+* NLP Libraries: Stanford CoreNLP, NLTK, MALLET, OpenNLP, Gensim, GibbsLDA++, SEMILAR, Word2Vec, Glove, Excitement Open Platform, PDTB/RST parsers
+
+* Machine Learning: Scikit-learn, Weka, LibSVM, LibLINEAR, Theano, TensorFlow, Matlab
+
+* Software and Tools: Eclipse, MS Visual Studio, MySQL, MSSQL
+
+* Parallel Computing: MPI, OpenMP
+
+(+) ACADEMIC BACKGROUND
+
+* Firm background
+	- Mathematics, Probability & statistics, Discrete mathematics, Algorithms and data structures, Object-oriented design & programming
+
+* Practical experience
+	- Natural language processing, Machine learning, Probabilistic Graphical Models, Neural Networks, Parallel genetic algorithms, Formal grammars and formal languages, Peer review & intelligent tutoring system (SWoRD)
+
+(+) JOURNAL
+
+* Huy Nguyen, Wenting Xiong, and Diane Litman. Iterative Design and Classroom Evaluation of Automated Instant Feedback for Improving Peer Feedback Localization. International Journal of Artificial Intelligence in Education (2017), Special Issue: Formative Feedback in Interactive Learning Environments. pp 1--41.
+
+(+) CONFERENCE PUBLICATIONS
+
+* Huy V. Nguyen and Diane Litman. Argument Mining for Improving Persuasive Essay Score Prediction. Proceedings of 32nd AAAI Conference on Artificial Intelligence (AAAI-18), February 2018, New Orleans, Louisiana, USA.
+
+* Huy V. Nguyen and Diane Litman. Context-aware Argumentative Relation Mining. Proceedings 54th Annual Meeting of the Association for Computational Linguistics (ACL), August 2016, Berlin, Germany.
+
+* Huy V. Nguyen, Wenting Xiong, and Diane Litman. Instant Feedback for Increasing the Presence of Solutions in Peer Reviews. Accepted for a demonstration in NAACL 2016, June 2016, San Diego, CA, USA.
+
+* Huy Nguyen & Diane Litman. Improving argument mining in student essays by learning and exploiting argument indicators versus essay topics. Proceedings 29th International FLAIRS Conference, May 2016, Key Largo, FL. Best Student Paper Award!
+
+* Huy Nguyen & Diane Litman. Extracting argument and domain words for identifying argument components in texts. The 2nd Workshop on Argumentation Mining, NAACL-HLT 2015, Denver, CO, 2015.
+
+* Huy Nguyen & Diane Litman. Extracting argument and domain words for identifying argument components in texts. The 2nd Workshop on Argumentation Mining, NAACL-HLT 2015, Denver, CO, 2015.
+
+* Huy Nguyen & Diane Litman. Improving Peer Feedback Prediction: the Sentence Level Is Right. The 9th BEA-ACL 2014 Workshop, Baltimore, MD, 2014.
+
+* Huy Nguyen, Wenting Xiong, and Diane Litman. Classroom Evaluation of a Scaffolding Intervention for Improving Peer Review Localization. The 12th ITS conference, Honolulu, HI, 2014.
+
+* Huy Nguyen & Diane Litman. Identifying Localization in Peer Reviews of Argument Diagrams. The 16th AIED conference, Memphis, TN, 2013.
+
+* Huy Nguyen & Diane Litman. Predicting Low vs. High Disparity between Peer and Expert Ratings in Peer Reviews of Physics Lab Reports. The 16th AIED conference, Memphis, TN, 2013.
+
+* Jesse Thomason, Huy Nguyen, and Diane Litman. Prosodic Entrainment and Tutoring Dialogue Success. The 16th AIED conference, Memphis, TN, 2013.
+
+* Malek Smaoui Feki, Huy Nguyen, and Marc Garbey. Parallel Genetic Algorithm Implementation for BOINC. ParCo 2009 conference, Lyon, France, 2009.
+
+* Huy Nguyen & Nghia Nguyen. Solving Graphical Steiner Tree Problem Using Parallel Genetic Algorithm. The 2008 IEEE RIVF, University of Natural Sciences, Ho Chi Minh City, Vietnam, 2008.
+
+(+) ACADEMIC HONORS
+
+* Teaching Fellowship, School of Arts & Sciences, University of Pittsburgh, Fall 2010
+
+* President's Paper of Commendation for Excel-lent Students in Studying and Graduation, Hanoi University of Science and Technology, July 24, 2007
+
+* Third prize in Student Research Contest, School of Information and Communication, Hanoi University of Science and Technology, May 20, 2007
+
+* ELAND-Vietnam Corp. Scholarship for Excellent Students in Vietnam, May 8, 2007
+
+* FPT Information System Co. Ltd. Scholarship for Excellent Students in Information Technology, Dec 21, 2006
+
+* Intel-Vietnam Co. Scholarship for Excellent Students in Information Technology, Oct 18, 2004
+
+* Hanoi University of Science and Technology Scholarship for academic excellence, 10/10 semesters, 2002 -- 2007
+
+(+) EXTRA-CURRICULAR ACTIVITIES
+
+* Secretary of Graduate Student Organization, Fall 2014 -- Fall 2015
+	- Computer Science Department, University of Pittsburgh
+
+* Mentor of Lego Mindstorms Group for Kid, Spring -- Summer 2007
+	- Children Institute of Hanoi, Vietnam
+
+(+) PRESENTED PROJECTS
+
+* Context-aware Argumentative Relation Mining
+	- Abstract: Context is crucial for identifying argumentative relations in text, but many argument mining methods make little use of contextual features. This paper presents context-aware argumentative relation mining that uses features extracted from writing topics as well as from windows of context sentences. Experiments on student essays demonstrate that the proposed features improve predictive performance in two argumentative relation classification tasks.
+	- Keywords: Context window, argument mining, argumentative relation
+
+* Extracting argument and domain words for identifying argument components in texts
+	- Abstract: Argument mining studies in natural language text often use lexical (e.g. n-grams) and syntactic (e.g. grammatical production rules) features with all possible values. In prior work on a corpus of academic essays, we demonstrated that such large and sparse feature spaces can cause difficulty for feature selection and proposed a method to design a more compact feature space. The proposed feature design is based on post-processing a topic model to extract argument and domain words. In this paper we investigate the generality of this approach, by applying our methodology to a new corpus of persuasive essays. Our experiments show that replacing n-grams and syntactic rules with features and constraints using extracted argument and domain words significantly improves argument mining performance for persuasive essays.
+	- Keywords: argument mining, topic model, argument component
+
+* Instant Feedback for Increasing the Presence of Solutions in Peer Reviews
+	- Abstract: Educational studies have identified the presence of solutions to problems as one of the most desirable features of student peer reviews. We present the design and evaluation of a web-based peer review system that uses natural language processing to automatically evaluate and provide instant feedback regarding the presence of solutions in peer reviews. Student reviewers can then choose to either revise their reviews to address the system’s feedback, or ignore the feedback and submit their original reviews. A system deployment in multiple high school classrooms shows that our solution prediction model triggers instant feedback with high precision, and that the feedback is successful in increasing the number of peer reviews with solutions.
+	- Keywords: instant feedback, peer review, feedback solution
+	
+* Classroom Evaluation of a Scaffolding Intervention for Improving Peer Review Localization
+	- Abstract: A localization instant feedback model was implemented in SWoRD peer-review system, to automatically analyze the quality of student reviews with respect to localization (pinpointing the source of the comment in the reviewed paper). The model triggers a system scaffolding intervention to improve review quality whenever the review is predicted to have a ratio of localized comments less than a threshold. My data analysis of the system log shows that a larger portion of student reviews are successfully localized after scaffolded revision, and the intervention has long impact to even later submissions.
+	- Keywords: system log analysis, intelligent tutoring system, peer-review, scaffolded intervention
+
+* Identifying Localization in Peer Reviews of Argument Diagrams
+	- Abstract: One desirable feedback feature is problem localization, which has been shown to positively correlate with feedback implementation. However peer-review systems such as SWoRD lack intelligence for detecting and responding to such feature of feedback. In this work I develop a novel model for identifying localization in peer feedback of argument diagrams. In addition to ngrams and parse trees of the feedback, model searches for common words between peer feedback and the argument diagram, and classifies those common words into different localization patterns (numbered component, textual content, unique component, connected component, and numerical regular expression). The proposed model demonstrates significant performance improvements compared to applying a prior model for peer feedback of papers.
+	- Keywords: prediction model, syntactic parsing, localization pattern, argument diagram
+
+* Predicting Low vs. High Disparity between Peer and Expert Ratings in Peer Reviews of Physics Lab Reports
+	- Abstract: This work focuses on automatically predicting whether peer ratings have high or low agreement in terms of disparity with instructor ratings, using solely features extracted from quantitative peer ratings and text-based peer comments. Alongside statistical features which are extracted from numerical peer ratings (mean and standard deviation), LDA (Latent Dirichlet allocation) topic model is used to estimate topic distributions of peer comments and infer inter-comment topic diversity. Experimental results show that a model learned using J48 Decision Tree outperforms a majority baseline in predicting low versus high rating disparity. Furthermore, the reliability of both peer ratings and comments (in terms of disagreement among peer reviewers) shows little correlation to disparity.
+	- Keywords: machine learning, topic model, rating disparity, rating reliability
+
+* Off-topic Sentences for Review Sentiment Analysis
+	- Abstract: Online product reviews often contain many off-topic sentences, but most current sentiment analysis works either treat them equally as on-topic sentences, or simply discard them. My interests include whether off-topic sentences are useful for review sentiment analysis, and how to model their contributions to review's sentiment. An analysis of the annotated data shows that positive reviews have significantly larger maximum-chunk of off-topic sentences than negative reviews while have partially larger minimum-chunk and ratio of off-topic sentences. However, my preliminary experiment with Naive Bayes algorithm did not show the advantage of off-topic sentences in review sentiment prediction. In future, I want to improve off-topic sentence identification and off-topic vs. comparative demonstration classification for a better review sentiment prediction.
+	- Keywords: sentiment analysis, off-topic sentence, comparative demonstration
+
+* The Effects of Entrainment in a Tutoring Dialogue System
+	- Abstract: This study investigates the relationships between student entrainment (speakers unconsciously mimic one another's voices, diction, and other behaviors). to a tutoring dialogue system and learning gain as well as satisfaction. For lexical entrainment, we compute words that are new in edited essays (after the tutoring) and words that are removed form reference essays (before the tutoring) and match them with the responses of tutor. For prosodic entrainment, acoustic/prosodic properties like mean, min, max, and standard deviation of utterance energy and pitch are measured, then a linear regression is fitted between series of student and tutor responses for each property. The results suggest that lexical and prosodic entrainment positively correlate with learning gain and student satisfaction respectively. We also find differences in user entrainment with respect to tutor voice and user gender.
+	- Keywords: linear regression, lexical entrainment, prosodic entrainment, learning gain
+
+* Amazon Product Reviews Visualization
+	- Abstract: This work presents an idea of combining visualization and natural language processing techniques to help user browse Amazon product reviews by topics and sentiment. LDA topic model is applied to identify topics of reviews, and reviews' star-ratings are used as golden labels to learn positive and negative sentiment keywords. The prototype is deployed as a Chrome's extension connecting to a local web server for topic and sentiment computation. The Chrome's extension gets the URL of each Amazon product and sends to a PHP code in the server for automated review page download. The visualization module is written in JavaScript/jQuery and based on Bubble Tree framework. Initial user study shows promising results (e.g. our visualization is as easy to use as the basic list, the complete model with topic and sentiment computation has the highest user score) and lots of helpful ideas to further improve the tool.
+	- Keywords: data visualization, data mining, topic model, sentiment analysis, bubble tree, browser extension
+
+* Peer Tutor & Tutee Behaviors in an Online Chat Environment
+	- Abstract: This work examines human-human peer tutoring interactions in an online chat environment w.r.t a range of relevant tutor and tutee-specific behaviors towards understanding how they interact with learning gains. This work is largely hypothesis-driven in which the hypotheses had been drawn from the class experiences and outside research on anxiety, help-seeking behavior, politeness theory, and how tutors can respond most effectively to their peers. The findings linking these behaviors with learning gains have implications in future intelligent tutoring system design. For example, the data shows that (1) decline in anxiety positively correlates with learning gain, (2) small and large help-seeking rates both reduce learning gain, (3) significant correlation is found between dialogue effectiveness and learning gain in students with low pre-test score.
+	- Keywords: peer tutoring, tutor-tutee behavior, dialogue effectiveness
+
+* Keyboard Acoustic for Predicting Keystrokes
+	- Abstract: In this work, I demonstrate an attack that allows an attacker to recover information based on the recorded sounds of keystrokes transmitted over the Internet. I first write a Matlab program to extract the keystrokes from original record in WAV format, using signal processing techniques like Fast Fourier transform (FFT) and a Hann filter. I then use direct frequency spectrum extracted from the sound signal as features for prediction model. I show that with a well-trained neural network model, the probability of recovering an individual key press based on its sound exceeds 80%. This is above the threshold necessary for an attacker to recover the plain text being typed in most cases.
+	- Keywords: neural network, signal processing, keystroke acoustic
+	
+* Solving Graphical Steiner Tree Problem Using Parallel Genetic Algorithm
+	- Abstract: The Graphical Steiner Tree problem asks for the minimum weighted tree spanning some designated vertices of an undirected weighted graph. In work, we propose a parallel genetic algorithm for the problem. My genetic algorithm is based on binary encoding idea uses the Distance Network Heuristics as the fitness evaluation function and is parallelized by using global population model. The hill-climbing is applied to improve the quality of obtained solution, and also run in parallel. My proposed algorithm is able to find optimal solutions for most of test problems and achieves small relative errors for near-optimal solutions. Parallel implementation obtains a speed-up of 6x when 10 computers are used.
+	- Keywords: genetic algorithm, parallel computing, combinatorial optimization
+
+(+) OTHER TALKS
+
+* Discourse -- Beyond the Sentence Boundary: From Modeling of Discourse to Modeling with Discourse and the First Visit to Argument Mining
+	- Advanced Natural Language Processing Class
+
+* Security Analysis of Cashier-as-a-Service Based Web Stores
+	- Advanced Security and Privacy Class
+
+* Nonparametric Bayesian Models and Dirichlet Process
+	- Advanced Machine Learning Class
+
+/* Updated July 2016 */
