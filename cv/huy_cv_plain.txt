@@ -10,7 +10,7 @@ LinkedIn: www.linkedin.com/in/huynv
 
 (+) ADDRESSES
 
-Home: 907 Alameda De Las Pulgas
+Home: 2221 Lake Rd Apt 7
 Belmont, CA 94002
 Mobile: (412) 799-3636
 
@@ -23,12 +23,12 @@ San Mateo, CA 94430
 * Major areas:
 	- Natural language processing, Machine learning, Data mining
 
-* Data domains include but are not limited to:
-	- Argumentative writing, Argument diagram, Peer review, Online review
+* Research problems:
+	- Argument mining, Review classification, Question answering, Spoken Dialogues/NLU, Sentence representation
 
 (+) EDUCATION
 
-* Ph.D. in Computer Science, August 2010 -- December 2017
+* Ph.D. in Computer Science, August 2010 -- April 2017
 	- Dissertation: Context-aware Argument Mining and Its Application in Education
 	- University of Pittsburgh, Pittsburgh, PA
 	- GPA 3.98/4
@@ -44,13 +44,13 @@ San Mateo, CA 94430
 	- LingoChamp US Inc., San Mateo, CA
 	- Manager: Dr. Yang Liu, Head of Silicone Valley AI Lab
 	- Work in an Artificial Intelligence Lab for Educational Applications.
-	- Research and develop models using Natural Language Processing and Machine Learning to automatically assess English-as-second-language learner responses.
+	- Research and develop NLU models using Natural Language Processing and Machine Learning to automatically assess English-as-second-language learner responses.
 
 * Natural Language Processing Engineer, March 2017 -- February 2018
 	- Lenovo Inc., Morrisville, NC
 	- Manager: Vikram Sharma, Director of Software Engineering
 	- Work in Lenovo Contextual Engine (LCE) Project.
-	- Research and develop recommendation models based on mining pattern in users' activities to increase user experience with Lenovo products.
+	- Research and develop recommendation models based on mining pattern in large scale computer users' activities to increase user experience with Lenovo products.
 
 * Graduate Student Researcher, August 2011 -- February 2017
 	- University of Pittsburgh, Pittsburgh, PA
@@ -82,34 +82,33 @@ San Mateo, CA 94430
 	- Worked in Computer Science Department.
 	- Taught courses including Discrete mathematics, Parallel computing, and Scientific computing.
 
-(+) COMPUTER SKILLS
+(+) SKILLS
 
-* Languages: Java, Python, Matlab, C/C++
+* Programming: Python, Java, C/C++
 
-* NLP Libraries: Stanford CoreNLP, NLTK, MALLET, OpenNLP, Gensim, GibbsLDA++, SEMILAR, Word2Vec, Glove, Excitement Open Platform, PDTB/RST parsers
+* NLP: Stanford CoreNLP, Spacy, NLTK, MALLET, OpenNLP, Gensim, GibbsLDA++, SEMILAR, Word2Vec, Glove, Discourse parsers
 
-* Machine Learning: Scikit-learn, Weka, LibSVM, LibLINEAR, Theano, TensorFlow, Matlab
+* Machine Learning: TensorFlow, Scikit-learn, Spark MLlib, Weka, LibSVM, LibLINEAR, Matlab
 
-* Software and Tools: Eclipse, MS Visual Studio, MySQL, MSSQL
+* Parallel/Distributed Computing: Spark, Hadoop, MPI, OpenMP
 
-* Parallel Computing: MPI, OpenMP
+(+) BACKGROUND
 
-(+) ACADEMIC BACKGROUND
-
-* Firm background
-	- Mathematics, Probability & statistics, Discrete mathematics, Algorithms and data structures, Object-oriented design & programming
+* Solid background
+	- Algorithms and data structures, Probability and statistics, Mathematics, Discrete mathematics, Object-oriented design and programming
 
 * Practical experience
-	- Natural language processing, Machine learning, Probabilistic Graphical Models, Neural Networks, Parallel genetic algorithms, Formal grammars and formal languages, Peer review & intelligent tutoring system (SWoRD)
+	- Natural language processing, Machine learning, Deep learning, Neural Networks, Parallel genetic algorithms, Formal grammars and formal languages, Intelligent tutoring system
 
 (+) JOURNAL
 
 * Huy Nguyen, Wenting Xiong, and Diane Litman. Iterative Design and Classroom Evaluation of Automated Instant Feedback for Improving Peer Feedback Localization. International Journal of Artificial Intelligence in Education (2017), Special Issue: Formative Feedback in Interactive Learning Environments. pp 1--41.
 
-(+) CONFERENCE PUBLICATIONS
+(+) PUBLICATIONS
+
+* Farah Nadeem, Huy Nguyen, Yang Liu and Mari Ostendorf. Automated Essay Scoring with Discourse-Aware Neural Models. Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications at ACL, August 2019, Italy.
 
 * Huy Nguyen, Lei Chen, Ramon Prieto, Chuan Wang, and Yang Liu. Liulishuo's System for the Spoken CALL Shared Task 2018. The 19th Annual  Conference of the International Speech Communication Association, September 2018, India. First-ranked team.
-
 
 * Huy V. Nguyen and Diane Litman. Argument Mining for Improving Persuasive Essay Score Prediction. Proceedings of 32nd AAAI Conference on Artificial Intelligence (AAAI-18), February 2018, New Orleans, Louisiana, USA.
 
@@ -137,6 +136,19 @@ San Mateo, CA 94430
 
 * Huy Nguyen & Nghia Nguyen. Solving Graphical Steiner Tree Problem Using Parallel Genetic Algorithm. The 2008 IEEE RIVF, University of Natural Sciences, Ho Chi Minh City, Vietnam, 2008.
 
+(+) ACADEMIC ACTIVITIES
+
+* Program committee:
+	- Workshop on Innovative Use of NLP for Building Educational Applications (BEA)
+	- Argument Mining Workshop (ArgMining)
+	- Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL)
+
+* Reviewer: ACL, NAACL, EMNLP, BEA, ArgMining, MASC-SLL
+
+* Secretary of Graduate Student Organization Fall 2014 -- Fall 2015, Computer Science Department, University of Pittsburgh
+
+* Mentor of Lego Mindstorms Group for Kid, Spring -- Summer 2007, Children Institute of Hanoi, Vietnam
+
 (+) ACADEMIC HONORS
 
 * Teaching Fellowship, School of Arts & Sciences, University of Pittsburgh, Fall 2010
@@ -152,14 +164,6 @@ San Mateo, CA 94430
 * Intel-Vietnam Co. Scholarship for Excellent Students in Information Technology, Oct 18, 2004
 
 * Hanoi University of Science and Technology Scholarship for academic excellence, 10/10 semesters, 2002 -- 2007
-
-(+) EXTRA-CURRICULAR ACTIVITIES
-
-* Secretary of Graduate Student Organization, Fall 2014 -- Fall 2015
-	- Computer Science Department, University of Pittsburgh
-
-* Mentor of Lego Mindstorms Group for Kid, Spring -- Summer 2007
-	- Children Institute of Hanoi, Vietnam
 
 (+) PRESENTED PROJECTS
 
@@ -222,4 +226,4 @@ San Mateo, CA 94430
 * Nonparametric Bayesian Models and Dirichlet Process
 	- Advanced Machine Learning Class
 
-/* Updated August 2018 */
+/* Updated August 2019 */
