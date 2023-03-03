@@ -236,5 +236,3 @@ Mobile: (412) 799-3636
 
 * Nonparametric Bayesian Models and Dirichlet Process
 	- Advanced Machine Learning Class
-
-/* Updated August 2019 */
