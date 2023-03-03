@@ -1,7 +1,7 @@
 --------CURRICULUM-VITAE--------
 
 HUY VIET NGUYEN
-Research Scientist, LingoChamp US Inc.
+Applied Scientist, Amazon.
 
 Email: hvn3@pitt.edu
 Mobile: (412) 799-3636
@@ -10,13 +10,8 @@ LinkedIn: www.linkedin.com/in/huynv
 
 (+) ADDRESSES
 
-Home: 2221 Lake Rd Apt 7
-Belmont, CA 94002
+Home: Seattle, WA
 Mobile: (412) 799-3636
-
-Office: LingoChamp US, Inc.
-1900 S Norfolk St., Suite 347
-San Mateo, CA 94430
 
 (+) RESEARCH INTERESTS
 
@@ -40,7 +35,17 @@ San Mateo, CA 94430
 
 (+) EXPERIENCE
 
-* Research Scientist, February 2018 -- onward
+* Applied Scientist, May 2021 -- current
+	- Amazon, Seattle, WA
+	- Manager: Devashish Khatwani, Data Science Manager
+	- Builds Deep NLP, Causal Inference and Timeseries Forcasting models.
+
+* Data Science Manager, September 2019 -- April 2021
+	- Appzen Inc., San Jose, CA
+	- Manager: Dr. Prateek Jain, Director of Data Science
+	- Work in building Deep NLP framework to support wide variety of NLP tasks.
+
+* Research Scientist, February 2018 -- September 2019
 	- LingoChamp US Inc., San Mateo, CA
 	- Manager: Dr. Yang Liu, Head of Silicone Valley AI Lab
 	- Work in an Artificial Intelligence Lab for Educational Applications.
@@ -105,6 +110,12 @@ San Mateo, CA 94430
 * Huy Nguyen, Wenting Xiong, and Diane Litman. Iterative Design and Classroom Evaluation of Automated Instant Feedback for Improving Peer Feedback Localization. International Journal of Artificial Intelligence in Education (2017), Special Issue: Formative Feedback in Interactive Learning Environments. pp 1--41.
 
 (+) PUBLICATIONS
+
+* Weihan Li, Huy Nguyen. Cascading Correction for Hierarchical Classification. Proceedings of Product Content Understanding and Generation Workshop, Amazon Machine Learning Conference, October 2022, Seattle, USA.
+
+* Abhinav Bohra, Huy Nguyen, Devashish Khatwani. AutoWS: Automated Weak Supervision Framework for Text Classification. Proceedings of Amazon Machine Learning Conference, October 2022, Seattle, USA.
+
+* Huy Nguyen, Devashish Khatwani. Robust Product Classication with Instance-dependence Noise. Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5) at ACL, May 2022, Ireland.
 
 * Farah Nadeem, Huy Nguyen, Yang Liu and Mari Ostendorf. Automated Essay Scoring with Discourse-Aware Neural Models. Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications at ACL, August 2019, Italy.
 
